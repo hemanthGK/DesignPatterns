@@ -1,2 +1,5 @@
 # DesignPatterns
+
 JavaScript Design Patterns
+---------------------------------------------------------------------
+
