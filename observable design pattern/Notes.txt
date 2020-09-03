@@ -1,0 +1,17 @@
+
+
+
+
+ subject   e.g  door
+
+  - open()
+  - close()
+
+ listener(s)
+
+   - Light
+        - toggle()
+   - Fan
+        - toggle()
+    
+    
